@@ -1,4 +1,4 @@
-package app.middleman;
+package app.middleman.PageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
