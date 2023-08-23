@@ -1,9 +1,9 @@
  <p align="center">
-    API Automation Testing Project
+    WEB Automation Testing Project
     <br />
     Capstone Program Immersive Alterra Academy
     <br />
-    <a href="[[https://app.swaggerhub.com/apis-docs/KHARISMAJANUAR/MusicLab-API/1.0.0](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)#/](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)"><strong>| Open API Documentation |</strong></a>
+    <a href="[[https://app.swaggerhub.com/apis-docs/KHARISMAJANUAR/MusicLab-API/1.0.0](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)#/](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)"><strong>| WEB Documentation |</strong></a>
     <br />
     <br />
   </p>
@@ -13,12 +13,12 @@
 
 <p align="justify">"Middleman" functions as inventory, which is the stock of materials or goods that are stored for a specific purpose. Within this platform, users have the opportunity for the processes of searching, storing, and selling inventory—both raw materials and finished products—in a systematic manner.</p>
 
-## 📑 API Testing- Middleman
+## 📑 WEB Testing- Middleman
 
 <p align="justify">This project was created to complete a Capstone project in the Batch 11 Quality Assurance class at the Alterra Academy Immersive Program. At this project, we perform an API Automation Testing for 10 resources or end points ().</p>
 
 ## 📓 Testing Documentation
-[Test Case API](https://docs.google.com/spreadsheets/d/1dGjWgVcneqUNwWsEw3HjVHVcIW88NhkzHDRyAfyfNSU/edit#gid=515436731)
+[Test Case WEB](https://docs.google.com/spreadsheets/d/1dGjWgVcneqUNwWsEw3HjVHVcIW88NhkzHDRyAfyfNSU/edit#gid=515436731)
 
 ## 📝 Reports
 
@@ -41,7 +41,7 @@
 ## 🛠 Tools
 **Manual:**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Google%20sheets-4bc47b?style=for-the-badge&logoColor=black)
 
 **Automation:**  
 ![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
