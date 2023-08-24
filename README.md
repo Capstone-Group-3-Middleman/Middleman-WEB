@@ -15,7 +15,7 @@
 
 ## 📑 WEB Testing- Middleman
 
-<p align="justify">This project was created to complete a Capstone project in the Batch 11 Quality Assurance class at the Alterra Academy Immersive Program. At this project, we perform an API Automation Testing for 10 resources or end points ().</p>
+<p align="justify">This project was created to complete a Capstone project in the Batch 11 Quality Assurance class at the Alterra Academy Immersive Program. At this project, we perform an WEB Automation Testing for 11 feature (Register, Login, My Profile, Dashboard, My Product, My Cart, Incoming Product, Inbound, Outbound, History Order User, History Order Admin).</p>
 
 ## 📓 Testing Documentation
 [Test Case WEB](https://docs.google.com/spreadsheets/d/1dGjWgVcneqUNwWsEw3HjVHVcIW88NhkzHDRyAfyfNSU/edit#gid=515436731)
@@ -26,13 +26,13 @@
 ![report-api-summary](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%203.PNG)
 
 #### Coverage Report
-![report-api-cpverage]
+![report-api-cpverage](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%201.PNG)
 
 #### Test Documentation Spreadsheet
-![report-api-chats]
+![report-api-chats](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%204.PNG)
 
 #### Automation Testing When Run in Intellij IDE
-![report-api-runningtest]
+![report-api-runningtest](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%202.png)
 
 
 ## 🛠 Tools
