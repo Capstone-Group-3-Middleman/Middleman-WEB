@@ -3,7 +3,7 @@
     <br />
     Capstone Program Immersive Alterra Academy
     <br />
-    <a href="[[https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)#/](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)"><strong>| WEB Documentation |</strong></a>
+    <a href="https://middleman-immersive.vercel.app/auth/welcome"><strong>| WEB Middleman |</strong></a>
     <br />
     <br />
   </p>
@@ -59,7 +59,7 @@
 
 1. Clone the repository
 ```bash
-  $ git clone https://github.com/Capstone-Group-3-Middleman/Middleman-API.git
+  $ git clone git@github.com:Capstone-Group-3-Middleman/WEB.git
 ```
 2. Open  this Project Repository on Intellij IDE and Run this on the IDE terminal
 
