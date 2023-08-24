@@ -1,12 +1,18 @@
- <p align="center">
-    WEB Automation Testing Project
-    <br />
+<div>
+<p align="center">
+    <a href="https://middleman-alta.vercel.app/auth/welcome">
+       <img src="https://middleman-alta.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.f4fa4ef1.png&w=640&q=75" alt="Logo" height="60">
+    </a>
+  <br/>
+  <br/>
+    API Automation Testing Project
+  <br />
     Capstone Program Immersive Alterra Academy
-    <br />
-    <a href="https://middleman-immersive.vercel.app/auth/welcome/"><strong>| WEB Middleman |</strong></a>
-    <br />
-    <br />
-  </p>
+  <br />
+    <a href="https://middleman-alta.vercel.app/auth/welcome"><strong>| Middleman WEB |</strong></a>
+  <br />
+  <br />
+</p>
 </div>
 
 ## 📑 About the Project
@@ -70,8 +76,8 @@
 
 ## 📱 Our teams
 
-  [![LinkedIn](https://img.shields.io/badge/-MHumam%20Zaki-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammad-humam-zaky-139369170/)
-  [![GitHub](https://img.shields.io/badge/-MhumamZaki-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/muhamaz)
+  [![LinkedIn](https://img.shields.io/badge/-MHumam%20Zaky-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammad-humam-zaky-139369170/)
+  [![GitHub](https://img.shields.io/badge/-MhumamZaky-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/muhamaz)
 
   [![LinkedIn](https://img.shields.io/badge/-Aditya%20Dwi%20Irawan-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aditya-dwi-irawan/)
   [![GitHub](https://img.shields.io/badge/-AdityaDwiIrawan-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adityadi195)
