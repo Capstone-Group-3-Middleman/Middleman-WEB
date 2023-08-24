@@ -3,7 +3,7 @@
     <br />
     Capstone Program Immersive Alterra Academy
     <br />
-    <a href="[[https://app.swaggerhub.com/apis-docs/KHARISMAJANUAR/MusicLab-API/1.0.0](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)#/](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)"><strong>| WEB Documentation |</strong></a>
+    <a href="[[https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)#/](https://app.swaggerhub.com/apis-docs/vaniliacahya/capstone/1.0.0)"><strong>| WEB Documentation |</strong></a>
     <br />
     <br />
   </p>
@@ -22,9 +22,8 @@
 
 ## 📝 Reports
 
-
 #### Summary Report
-![report-api-summary]
+![report-api-summary](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%203.PNG)
 
 #### Coverage Report
 ![report-api-cpverage]
@@ -35,13 +34,8 @@
 #### Automation Testing When Run in Intellij IDE
 ![report-api-runningtest]
 
-#### Manual Testing When Run in Postman
-![report-api-runningtest]
 
 ## 🛠 Tools
-**Manual:**
-
-![Postman](https://img.shields.io/badge/-Google%20sheets-4bc47b?style=for-the-badge&logoColor=black)
 
 **Automation:**  
 ![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
