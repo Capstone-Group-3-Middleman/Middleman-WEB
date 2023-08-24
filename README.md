@@ -5,7 +5,7 @@
     </a>
   <br/>
   <br/>
-    API Automation Testing Project
+    WEB Automation Testing Project
   <br />
     Capstone Program Immersive Alterra Academy
   <br />
