@@ -3,7 +3,7 @@
     <br />
     Capstone Program Immersive Alterra Academy
     <br />
-    <a href="https://middleman-immersive.vercel.app/auth/welcome"><strong>| WEB Middleman |</strong></a>
+    <a href="https://middleman-immersive.vercel.app/auth/welcome/"><strong>| WEB Middleman |</strong></a>
     <br />
     <br />
   </p>
