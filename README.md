@@ -29,16 +29,16 @@
 ## 📝 Reports
 
 #### Summary Report
-![report-api-summary](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%203.PNG)
+![report-api-summary](https://github.com/Capstone-Group-3-Middleman/Middleman-WEB/blob/main/image/WEB%203.PNG)
 
 #### Coverage Report
-![report-api-cpverage](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%201.PNG)
+![report-api-cpverage](https://github.com/Capstone-Group-3-Middleman/Middleman-WEB/blob/main/image/WEB%201.PNG)
 
 #### Test Documentation Spreadsheet
-![report-api-chats](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%204.PNG)
+![report-api-chats](https://github.com/Capstone-Group-3-Middleman/Middleman-WEB/blob/main/image/WEB%204.PNG)
 
 #### Automation Testing When Run in Intellij IDE
-![report-api-runningtest](https://github.com/Capstone-Group-3-Middleman/WEB/blob/main/image/WEB%202.png)
+![report-api-runningtest](https://github.com/Capstone-Group-3-Middleman/Middleman-WEB/blob/main/image/WEB%202.png)
 
 
 ## 🛠 Tools
